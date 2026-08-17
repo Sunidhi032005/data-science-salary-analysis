@@ -41,9 +41,6 @@ The interactive dashboard contains:
 - Average Salary by Company Location
 - Interactive slicers for filtering the dashboard
 
-### Dashboard Preview
-![Data Science Salary Analysis Dashboard](dashboard.png)
-
 ## Key Insights
 
 - Salary varies across different data science job roles.
