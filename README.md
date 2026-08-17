@@ -42,8 +42,7 @@ The interactive dashboard contains:
 - Interactive slicers for filtering the dashboard
 
 ### Dashboard Preview
-
-![Data Science Salary Analysis Dashboard](Screenshot 2026-08-16 100942.png)
+![Data Science Salary Analysis Dashboard](dashboard.png)
 
 ## Key Insights
 
